@@ -1,4 +1,4 @@
-### GalacicWarsSE1
+# GalacicWarsSE1
 > Public Information
 ## Progress Work
  - [ ] Hub map
