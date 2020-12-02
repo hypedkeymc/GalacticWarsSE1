@@ -1,5 +1,6 @@
 ### GalacicWarsSE1
-Season one Galactic wars public repo 
+> Public Information
+## Progress Work
  - [ ] Hub map
  - [x] Multiplayer battlefield map
  - [ ] Alpha 0.1
